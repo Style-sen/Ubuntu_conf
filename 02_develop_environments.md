@@ -1,3 +1,4 @@
-1. git    
+1. apt-get source    
+2. git    
 ssh keygen
-2. node    
+3. node    
