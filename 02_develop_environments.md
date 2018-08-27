@@ -31,3 +31,10 @@ trusted-host =  pypi.douban.com
 index-url = http://pypi.douban.com/simple
 ```
 ## 5. docker    
+1. [docker config](https://docs.docker.com/v1.11/engine/reference/commandline/daemon/#daemon-configuration-file)
+```
+镜像默认存储地址：/var/lib/docker
+daemon配置文件:/etc/docker/daemon.json
+"graph":"",    "Root of the Docker runtime" 修改/var/lib/docker
+"storage-driver":"overlay"        "需要和上一条配置成对出现否则会出现Error：mount merge invaild argument"
+```
