@@ -22,3 +22,11 @@ ssh keygen
 3. sudo python3 get-pip.py
 ```
 1. Update pip source.
+```
+1. 在主目录下创建.pip文件夹
+mkdir ~/.pip
+2.然后在该目录下创建pip.conf文件编写如下内容：
+[global]
+trusted-host =  pypi.douban.com
+index-url = http://pypi.douban.com/simple
+```
