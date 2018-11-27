@@ -38,3 +38,8 @@ daemon配置文件:/etc/docker/daemon.json
 "graph":"",    "Root of the Docker runtime" 修改/var/lib/docker
 "storage-driver":"overlay"        "需要和上一条配置成对出现否则会出现Error：mount merge invaild argument"
 ```
+2. [Docker的镜像存放目录修改与迁移（Ubuntu）](https://my.oschina.net/u/2306127/blog/653569)
+
+## 6. 系统相关    
+1. [Ubuntu 16.04开机自动挂载硬盘分区（转）](https://www.cnblogs.com/EasonJim/p/7447000.html)  
+2. []
