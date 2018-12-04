@@ -2,6 +2,7 @@
 [2.数据库](#2)    
 [3.调试小工具](#3)    
 [4.绘图工具](#4)    
+[5.浏览器插件](#5)
 
 <h1 id='1'>代码编辑</h1>
 
@@ -55,4 +56,5 @@
     
 <h1 id='5'>浏览器插件</h1>
 
+插件商店：[Crx4Chrome](https://www.crx4chrome.com/)
 1.[Saladict 沙拉查词](https://github.com/crimx/ext-saladict)
