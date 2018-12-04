@@ -58,5 +58,5 @@
 
 插件商店：[Crx4Chrome](https://www.crx4chrome.com/)    
 1.[Saladict 沙拉查词](https://github.com/crimx/ext-saladict)    
-2.[Tampermonkey](https://tampermonkey.net/)
+2.[Tampermonkey](https://tampermonkey.net/)    
     Tampermonkey 是一款免费的浏览器扩展和最为流行的用户脚本管理器
