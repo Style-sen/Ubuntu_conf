@@ -52,3 +52,7 @@
 
 1. [Inscape](https://inkscape.org/)
     跨平台的矢量图编辑。
+    
+<h1 id='5'>浏览器插件</h1>
+
+1.[Saladict 沙拉查词](https://github.com/crimx/ext-saladict)
